@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "name": "Asif",
+      "dob": "11/11/1999",
+      "email": "asif@gmail.com ",
+      "password": "Asif@123",
+      "id": "86d4"
+    },
+    {
+      "name": "Sagar",
+      "dob": "15/04/1998",
+      "email": "sagar@gmail.com ",
+      "password": "Sagar@123",
+      "id": "b14d"
+    },
+    {
+      "id": "b14d",
+      "name": "Jayesh",
+      "dob": "10/04/1998",
+      "email": "jahesh@gmail.com ",
+      "password": "Jayesh@123"
+    },
+    {
+      "id": "5b87",
+      "name": "Mannan",
+      "dob": "2002-11-25",
+      "email": "mannan@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "aec6",
+      "name": "Vaishnavi Date",
+      "dob": "2012-06-02",
+      "email": "vaishnavi@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "e801",
+      "name": "Test",
+      "dob": "2022-02-04",
+      "email": "test@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "4946",
+      "name": "Test",
+      "dob": "2022-02-04",
+      "email": "test@gmail.com",
+      "password": "123456789"
+    }
+  ]
+}
